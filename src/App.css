@@ -1,0 +1,191 @@
+.gap {
+  padding-right: 2rem;
+}
+
+#image-size {
+  border-radius: 50%;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}
+
+#album-art {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contact-icon {
+  width: 30px;
+  height: 30px;
+  margin-left: 35%;
+  margin-right: 65%;
+}
+
+#text-align {
+  margin-left: 41%;
+  margin-right: 59%;
+}
+
+#text-align-2 {
+  margin-left: 622px;
+}
+
+#button1 {
+  background-color: #034460;
+  border: 1px solid #034460;
+  color: white;
+  padding: 4px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 320px;
+}
+
+#button1:hover {
+  background-color: white;
+  color: #034460;
+  border: 1px solid #034460;
+}
+
+#button1m {
+  background-color: #034460;
+  border: 1px solid #034460;
+  color: white;
+  padding: 4px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 120px;
+}
+
+#button1m:hover {
+  background-color: white;
+  color: #034460;
+  border: 1px solid #034460;
+}
+
+#button2 {
+  background-color: white;
+  border: 1px solid #034460;
+  color: #034460;
+  padding: 4px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#button2:hover {
+  background-color: #034460;
+  color: white;
+  border: 1px solid white;
+}
+
+#button2m {
+  background-color: white;
+  border: 1px solid #034460;
+  color: #034460;
+  padding: 4px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-left: 120px;
+}
+
+#button2m:hover {
+  background-color: #034460;
+  color: white;
+  border: 1px solid white;
+}
+
+#button3 {
+  background-color: #034460;
+  border: 1px solid #034460;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-right: 500px;
+}
+
+#button3:hover {
+  background-color: white;
+  color: #034460;
+  border: 1px solid #034460;
+}
+
+#button3m {
+  background-color: #034460;
+  border: 1px solid #034460;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+#button3m:hover {
+  background-color: white;
+  color: #034460;
+  border: 1px solid #034460;
+}
+
+#vl {
+  border-left: 2px solid white;
+  height: 225px;
+  position: absolute;
+}
+
+#navbar {
+  background-color: #034460;
+  margin-top: 0px;
+  bottom: 0;
+  width: 100%;
+}
+
+#a {
+  color: white;
+}
+
+#a:hover {
+  background-color: white;
+  color: #034460;
+  border: 1px solid #034460;
+}
